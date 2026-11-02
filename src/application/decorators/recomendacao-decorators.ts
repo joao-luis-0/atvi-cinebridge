@@ -2,7 +2,9 @@ import { gzipSync } from 'zlib';
 import type { ComporEquipeRequestDTO, DecoradorRecomendacao } from '../dto/compor-equipe.dto';
 import type { ResultadoOrquestracao } from '../../domain/orchestration/orquestrador-equipe';
 import { mapearRespostaRecomendacao } from '../mappers/resposta-recomendacao.mapper';
-
+/*
+  EasterEgg: Narnia.
+*/
 
 export interface RecomendacaoStrategy {
   recomendar(request: ComporEquipeRequestDTO): Promise<ResultadoOrquestracao>;
