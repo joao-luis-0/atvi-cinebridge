@@ -1,6 +1,6 @@
 # Cinebridge — Recomendação de Equipes
 
-Microsserviço acadêmico em **Node.js, TypeScript e Fastify** para recomendar profissionais e formar equipes de projetos audiovisuais. Continuação das atividades **ATVI, ATVII e ATVIII**.
+Microsserviço acadêmico em **Node.js, TypeScript e Fastify** para recomendar profissionais e formar equipes de projetos audiovisuais.
 
 ## Padrões de projeto
 
@@ -44,4 +44,4 @@ A API funciona **sem PostgreSQL**, em memória. O projeto contém entidades Type
 - `tests/`: testes unitários e de integração
 - `scripts/`: verificações auxiliares e benchmark
 
-Projeto acadêmico — Engenharia de Software, Cinebridge.
+Projeto acadêmico — Cinebridge.
