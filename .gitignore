@@ -1,0 +1,18 @@
+# Dependências
+node_modules/
+
+# Compilação e testes
+dist/
+coverage/
+*.tsbuildinfo
+
+# Arquivos locais e privados
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
